@@ -1,0 +1,15 @@
+[
+  {
+    "id": "kit-01-clear-complete",
+    "image": "images/kit-01.jpg",
+    "expectedVisible": ["sealed water pouches", "oral rehydration salts", "sterile gauze", "emergency blanket", "soap bar"],
+    "expectedMissing": []
+  },
+  {
+    "id": "kit-02-gauze-missing",
+    "image": "images/kit-02.jpg",
+    "expectedVisible": ["sealed water pouches", "oral rehydration salts", "emergency blanket", "soap bar"],
+    "expectedMissing": ["sterile gauze"]
+  }
+]
+
